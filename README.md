@@ -5,7 +5,7 @@
 ## How To Use
 
 - Download the project file.
-- Open a terminal window, and $ cd into `/Users/siuzanna/Library/Developer/Xcode` directory.
+- Open a terminal window, and $ cd into `/Users/YOURMACNAME/Library/Developer/Xcode` directory.
 - Create a new `Templates` file 
 - Create a new `File Templates` file in the `Templates` directory
 - And add `MVVM Module.xctemplate` file
